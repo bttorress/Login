@@ -2,7 +2,7 @@
 
 Este repositório contém uma tela de login desenvolvida utilizando HTML, CSS, SCSS e JavaScript. O design é totalmente responsivo, garantindo uma boa experiência de usuário em dispositivos móveis e desktop. A tela de login foi criada para ser simples, funcional e fácil de integrar em projetos web.
 
-<h2>Tecnologias utilizadas: </h2>
+<h4>Tecnologias utilizadas: </h4>
 
 HTML5
 CSS3
@@ -28,7 +28,7 @@ CSS3
 SCSS (Sass)
 JavaScript (Vanilla)
 
-<h2>Features:</h2>
+<h4>Features:</h4>
 Responsive layout
 Form validation in JavaScript
 Style customization with SCSS
